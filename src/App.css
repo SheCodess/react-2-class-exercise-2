@@ -1,0 +1,35 @@
+html {
+  background-color: rgb(44, 126, 164);
+}
+
+h1 {
+  font-size: 50px;
+  margin-left: 600px;
+}
+
+img {
+  height: 300px;
+  width: 450px;
+  padding-left: 50px;
+}
+
+.text {
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+}
+
+h2 {
+  font-size: 30px;
+  margin-left: 500px;
+  margin-top: 50px;
+}
+
+p {
+  margin-left: 50px;
+}
+
+.list li{
+  margin-left: 50px;
+
+}
